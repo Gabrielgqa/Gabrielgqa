@@ -1,4 +1,4 @@
-### Prazer, me chamo Gabriel Gomes 👋
+### Prazer, me chamo Gabriel Almeida 👋
 
 Desenvolvendo desde 2012 Desenvolvedor JS | PHP | Ruby
 
