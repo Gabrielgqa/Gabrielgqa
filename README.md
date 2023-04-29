@@ -1,20 +1,29 @@
-### Hello! My name is Gabriel Almeida. 👋
+<div align="center">
+  <img style="width: 16em; height: auto" src="https://cdn.pixabay.com/photo/2023/02/22/04/52/ai-generated-7805695_960_720.jpg" />
 
-I'm a software engineer who has been programming since 2012.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mathe-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div> </br>
+  ### Hey! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-almeida-a8b9a286/)](https://www.linkedin.com/in/gabriel-almeida-a8b9a286/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielgqa@gmail.com)](mailto:gabrielgqa@gmail.com)
-
-![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgqa&show_icons=true&theme=dracula) &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; 
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgqa&layout=compact&langs_count=7&theme=dracula"/>
-
+  I'm Gabriel Almeida, a Software Engineer who has been programming since 2012.
+  
+  <a href="https://www.linkedin.com/in/gabriel-almeida-a8b9a286/" target="_blank">
+    <img src="https://img.shields.io/badge/-Gabriel Almeida-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabrielgqa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-gabrielgqa-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/followers/gabrielgqa?style=social" />
+  <br><br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%230175C2.svg?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+  
+</div>
+<br>
+<div align="center">
+  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgqa&theme=highcontrast&hide_border=false" />
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgqa&layout=&langs_count=4&theme=highcontrast"/>
+</div>
