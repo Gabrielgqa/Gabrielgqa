@@ -25,5 +25,4 @@
 <br>
 <div align="center">
   <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgqa&theme=highcontrast&hide_border=false" />
-  <img height="230em" src="https://github-readme-sigma-five-stats.vercel.app/api/top-langs/?username=gabrielgqa&layout=&langs_count=4&theme=highcontrast"/>
 </div>
