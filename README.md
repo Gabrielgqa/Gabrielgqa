@@ -22,7 +22,3 @@
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
   
 </div>
-<br>
-<div align="center">
-  <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgqa&theme=highcontrast&hide_border=false" />
-</div>
