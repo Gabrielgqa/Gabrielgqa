@@ -23,6 +23,6 @@
    <br><br>
   <div align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgqa&theme=highcontrast&hide_border=false" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgqa&layout=&langs_count=4&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgqa&layout=&langs_count=6&theme=highcontrast"/>
   </div>
 </div>
