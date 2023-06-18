@@ -4,7 +4,7 @@
 
   ### Hey! 👋
 
-  I'm Gabriel Almeida, a Software Engineer who has been programming since 2012.
+  I'm Gabriel Almeida, a Software Engineer who has been programming since 2012
   
   <a href="https://www.linkedin.com/in/gabriel-almeida-a8b9a286/" target="_blank">
     <img src="https://img.shields.io/badge/-Gabriel Almeida-blue?style=flat&logo=Linkedin&logoColor=white" />
